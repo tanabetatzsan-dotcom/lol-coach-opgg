@@ -138,5 +138,4 @@ if st.button(":ロケット: 全マッチアップ分析開始"):
         st.dataframe(df)
         st.bar_chart(df.set_index("項目"))
         st.success(f"**{my_champ} vs {opponent} ({role}): CS優秀！ Emerald+ {tier}調整後スコア: 82/100**")
-# requirements.txt追加: opencv-python beautifulsoup4 lxml ultralytics（YOLO）
 
