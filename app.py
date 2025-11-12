@@ -1,4 +1,3 @@
-# app.py - 全チャンピオン対応版（LoLalytics/u.gg統合）
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
